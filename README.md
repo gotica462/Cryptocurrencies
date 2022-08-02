@@ -10,11 +10,11 @@ The datais not ideal, so it will need to be processed to fit the machine learnin
 
 Here are some of the visualizations of our analysis
 
-# 3-D Cluster Graphics
+### 3-D Cluster Graphics
 
 ![image](https://github.com/gotica462/Cryptocurrencies/blob/main/3D%20Scatter%20with%20clusters.png)
 
-# 2-D Graphics
+### 2-D Graphics
 
 ![image](https://github.com/gotica462/Cryptocurrencies/blob/main/2D%20Graphics.png)
 
